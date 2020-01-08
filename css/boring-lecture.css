@@ -7,11 +7,8 @@ h1 {
   text-align: center;
 }
 
-h2.intro {
+.intro {
   text-align: center;
-}
-
-p.intro {
   word-spacing: 3px;
 }
 
